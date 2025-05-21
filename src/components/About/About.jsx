@@ -21,7 +21,7 @@ function About() {
                     {skills.map((skill, id) => {
                         return (
                             <div key={id} >
-                                <img src={skill.imageSrc} alt={skill.title} />
+                                <img src={`${import.meta.env.BASE_URL}${skill.imageSrc}`} alt={skill.title} />
                             </div>
                         );
                     })}
@@ -29,7 +29,7 @@ function About() {
             </div>
 
             <div className={styles.aboutImage}>
-                <img src={`${import.meta.env.BASE_URL}${aboutImage}`} alt="About Image" />
+                <img src={aboutImage} alt="About Image" />
             </div>
         </section>
     );
