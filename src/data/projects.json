@@ -13,7 +13,7 @@
                 "platformLink": "https://www.google.com"
             }
         ],
-        "imageSource": "/src/assets/demoImage.png"
+        "imageSource": "/demoImage.png"
     },
     {
         "projectName": "A project",
@@ -29,7 +29,7 @@
                 "platformLink": "https://www.google.com"
             }
         ],
-        "imageSource": "/src/assets/demoImage.png"
+        "imageSource": "/demoImage.png"
     },
     {
         "projectName": "A project",
@@ -45,7 +45,7 @@
                 "platformLink": "https://www.google.com"
             }
         ],
-        "imageSource": "/src/assets/demoImage.png"
+        "imageSource": "/demoImage.png"
     },
     {
         "projectName": "A project",
@@ -61,6 +61,6 @@
                 "platformLink": "https://www.google.com"
             }
         ],
-        "imageSource": "/src/assets/demoImage.png"
+        "imageSource": "/demoImage.png"
     }
 ]

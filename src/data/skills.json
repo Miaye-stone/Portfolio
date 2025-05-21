@@ -1,18 +1,18 @@
 [
     {
         "title" : "Html",
-        "imageSrc" : "/src/assets/htmlIcon.png"
+        "imageSrc" : "/htmlIcon.png"
     },
     {
         "title" : "Css",
-        "imageSrc" : "/src/assets/cssIcon.png"
+        "imageSrc" : "/cssIcon.png"
     },
     {
         "title" : "React",
-        "imageSrc" : "/src/assets/reactIcon.png"
+        "imageSrc" : "/reactIcon.png"
     },
     {
         "title" : "Figma",
-        "imageSrc" : "/src/assets/figmaIcon.png"
+        "imageSrc" : "/figmaIcon.png"
     }
 ]
