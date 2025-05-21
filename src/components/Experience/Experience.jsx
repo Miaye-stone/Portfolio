@@ -11,7 +11,7 @@ function Experience() {
                 {experience.map((experience, id) => {
                     return (
                         <div key={id} className={styles.card}>
-                            <img src={experience.imageSrc} alt={experience.company} />
+                            <img src={`${import.meta.env.BASE_URL}${experience.imageSrc}`} alt={experience.company} />
 
                             <div className={styles.cardDetails}>
                                 <h3>{experience.jobTitle},{experience.company}</h3>

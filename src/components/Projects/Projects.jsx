@@ -13,7 +13,7 @@ function Projects() {
                     return (
                         <div key={id} className={styles.card}>
                            <div className={styles.details}>
-                                <img src={project.imageSource} alt={project.projectName} className={styles.projectImage}/>
+                                <img src={`${import.meta.env.BASE_URL}${project.imageSource}`} alt={project.projectName} className={styles.projectImage}/>
 
                                 <section className={styles.projectInfo}>
                                     <h3>{project.projectName}</h3>
