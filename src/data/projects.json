@@ -1,0 +1,66 @@
+[
+    {
+        "projectName": "A project",
+        "description": "Lantern helps you close deals faster and smarter. Consolidate customer, prospect, and intent data, streamline sales tools, and use AI-powered insights.",
+        "techStack": ["Html", "Css", "Javascript"],
+        "links": [
+            {
+                "platform": "Website",
+                "platformLink": "https://www.google.com"
+            },
+            {
+                "platform": "Github",
+                "platformLink": "https://www.google.com"
+            }
+        ],
+        "imageSource": "/src/assets/demoImage.png"
+    },
+    {
+        "projectName": "A project",
+        "description": "Lantern helps you close deals faster and smarter. Consolidate customer, prospect, and intent data, streamline sales tools, and use AI-powered insights.",
+        "techStack": ["Html", "Css", "Javascript"],
+        "links": [
+            {
+                "platform": "Website",
+                "platformLink": "https://www.google.com"
+            },
+            {
+                "platform": "Github",
+                "platformLink": "https://www.google.com"
+            }
+        ],
+        "imageSource": "/src/assets/demoImage.png"
+    },
+    {
+        "projectName": "A project",
+        "description": "Lantern helps you close deals faster and smarter. Consolidate customer, prospect, and intent data, streamline sales tools, and use AI-powered insights.",
+        "techStack": ["Html", "Css", "Javascript"],
+        "links": [
+            {
+                "platform": "Website",
+                "platformLink": "https://www.google.com"
+            },
+            {
+                "platform": "Github",
+                "platformLink": "https://www.google.com"
+            }
+        ],
+        "imageSource": "/src/assets/demoImage.png"
+    },
+    {
+        "projectName": "A project",
+        "description": "Lantern helps you close deals faster and smarter. Consolidate customer, prospect, and intent data, streamline sales tools, and use AI-powered insights.",
+        "techStack": ["Html", "Css", "Javascript"],
+        "links": [
+            {
+                "platform": "Website",
+                "platformLink": "https://www.google.com"
+            },
+            {
+                "platform": "Github",
+                "platformLink": "https://www.google.com"
+            }
+        ],
+        "imageSource": "/src/assets/demoImage.png"
+    }
+]

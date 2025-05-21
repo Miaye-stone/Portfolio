@@ -1,0 +1,31 @@
+[
+    {
+        "imageSrc" : "/src/assets/experienceImage.png",
+        "jobTitle" : "Software Engineer",
+        "company" : "Google",
+        "date" : "2022-2024",
+        "achievement" : ["Worked on Google Maps", "Reduced load times by 50%"]
+    },
+    {
+        "imageSrc" : "/src/assets/experienceImage.png",
+        "jobTitle" : "Software Engineer",
+        "company" : "Google",
+        "date" : "2022-2024",
+        "achievement" : ["Worked on Google Maps", "Reduced load times by 50%"]
+    },
+    {
+        "imageSrc" : "/src/assets/experienceImage.png",
+        "jobTitle" : "Software Engineer",
+        "company" : "Google",
+        "date" : "2022-2024",
+        "achievement" : ["Worked on Google Maps", "Reduced load times by 50%"]
+    },
+    {
+        "imageSrc" : "/src/assets/experienceImage.png",
+        "jobTitle" : "Software Engineer",
+        "company" : "Google",
+        "date" : "2022-2024",
+        "achievement" : ["Worked on Google Maps", "Reduced load times by 50%"]
+    }
+
+]

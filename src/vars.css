@@ -1,0 +1,13 @@
+:root {
+    /* Colors */
+    --color-one: #263035;
+    --color-two: #A1C8D9;
+    --color-glass: #ffffff50;
+    --color-capsules: #A1C8D960;
+    --color-blur: #A1C8D9;
+    --color-white: #ffffff;
+
+    /* Font */
+    --font-heading: "Arial", "Inter", sans-serif;
+    --font-body: "Inter", "Arial", sans-serif;
+}
