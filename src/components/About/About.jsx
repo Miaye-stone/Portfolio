@@ -29,7 +29,7 @@ function About() {
             </div>
 
             <div className={styles.aboutImage}>
-                <img src={aboutImage} alt="About Image" />
+                <img src={`${import.meta.env.BASE_URL}${aboutImage}`} alt="About Image" />
             </div>
         </section>
     );
